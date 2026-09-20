@@ -22,7 +22,6 @@ Most of my day-to-day work is around Kotlin, Jetpack Compose, XML views, corouti
 - Designing modular and multi-repository project structures
 - Improving architecture, testing, and developer experience
 - Learning more about backend, DevOps, and system design
-- Developing products and ideas under **Sedate Corp**
 
 ### Tools I work with
 
